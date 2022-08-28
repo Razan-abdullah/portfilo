@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Razan Alowedat. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Razan Alowedat I am a software expert who has developed products for enterprise clients, as well as many venture-backed businesses. I specialize in building applications specific to the business needs of my clients. I have done work in software development, front-end/back-end web and database/server management. I'm working with newest front-end frameworks like Angular, React and Vue. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,23 +11,20 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "HR-Managment-System",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/HR.png",
+          "images/HR2.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
+         
           {
             "class": "devicon-csharp-plain",
             "name": "C#"
@@ -35,14 +32,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Resaturant",
+        "startDate": "2022",
+        "description": "Personal project for study subject. I was responsible for craeting sugisstion form for new menu . I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/r.png"
         ],
-        "url": "https://github.com",
+        "url": "https://razan-abdullah.github.io/Restaurant/index.html",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +51,14 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Italian- restaurant site ",
+        "startDate": "2017",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for site!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/1.png",
+          "images/2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://razan-abdullah.github.io/my-rest/index.html",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
