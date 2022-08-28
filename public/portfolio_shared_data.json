@@ -3,20 +3,20 @@
 {
     "basic_info": {
       "name": "Razan Alowedat",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer - Full Stack " ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Razan-abdullah",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/razan-owedat-682636162/",
+          "class": "fa-brands fa-linkedin-in" 
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "images/RAZAN.jpg"
     },
     "skills": {
       "icons": [
